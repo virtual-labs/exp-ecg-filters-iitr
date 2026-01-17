@@ -1,4 +1,4 @@
-<h2>References</h2>
+
 
 1. Leslie Cromwell, Fred J. Weibell, Erich A. Pfeiffer, 
 <i>Biomedical Instrumentation and Measurements</i>, 
