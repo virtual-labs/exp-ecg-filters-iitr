@@ -1,6 +1,6 @@
 <div style="font-family: 'Nunito Sans', sans-serif; font-size: 20px; text-align: justify;">
 
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 
 Electrocardiogram (ECG) is a biosignal representing the electrical activities of the heart muscle. The common obstacle in analyzing and interpreting the ECG signal is the presence of unwanted artefacts and noises introduced during signal acquisition and transmission that contaminate or degrade the quality of ECG signal. A clean and noise-free ECG signal plays an imperative and vital part in the clinical analysis and diagnosis of cardiac abnormalities and diseases. Thus, the removal of these unwanted noises is an indispensable task to ensure a reliable ECG analysis performance. In this experiment, various types of noise contaminating the ECG signal are briefly discussed and several types of filter are modelled to denoise the raw ECG signal.<br>
 
